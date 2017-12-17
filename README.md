@@ -1,2 +1,5 @@
 # hello-world
-Just another repositiry
+
+Hi Universe !
+
+Iftikhar here, I like C# and .NET...
